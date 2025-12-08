@@ -4,8 +4,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.34-orange)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
----
-
 ##  Project Overview
 
 The **ALM (Asset-Liability Management) Optimization Engine** is a Python-based platform designed to:
@@ -18,8 +16,8 @@ The **ALM (Asset-Liability Management) Optimization Engine** is a Python-based p
 
 This project is ideal for risk managers, finance analysts, and students learning quantitative asset-liability modeling.
 
+## Project Structure
 
-##  Project Structure
 ALM-Optimization-Engine/
 │
 ├─ data/
@@ -39,9 +37,6 @@ ALM-Optimization-Engine/
 ├─ app.py # Streamlit interactive app
 ├─ main.py # Run the ALM engine from CLI
 └─ README.md
-
-
----
 
 ##  Features
 
@@ -66,8 +61,6 @@ ALM-Optimization-Engine/
   - **Portfolio weights** bar chart
   - **Risk metrics** summary
 - Export results to **CSV or Excel**
-
----
 
 ##  Installation
 
