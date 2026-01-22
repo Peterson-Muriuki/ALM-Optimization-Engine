@@ -40,22 +40,22 @@ ALM-Optimization-Engine/
 
 ##  Features
 
-### 1️ Liability Modeling
+### Liability Modeling
 - Computes **Present Value (PV)** and **Duration** from cashflow data.
 - Handles multiple liability structures.
 
-### 2️ Diversified Asset Optimization
+### Diversified Asset Optimization
 - Uses **CVXPY** to maximize risk-adjusted returns.
 - Supports **long-only portfolios** with constraints.
 - Calculates **optimal weights** for multiple asset classes.
 
-### 3️ Risk Metrics
+### Risk Metrics
 - Portfolio **Volatility**
 - **Sharpe Ratio**
 - **5% Value-at-Risk (VaR)**
 - **Conditional Value-at-Risk (CVaR)**
 
-### 4️ Visualization & Export
+### Visualization & Export
 - Interactive **Streamlit dashboard**:
   - Line charts of **PV vs Time**
   - **Portfolio weights** bar chart
